@@ -6,4 +6,4 @@ Simple.ipynb - Simplistic analysis. Runnable kernel - https://www.kaggle.com/nan
 
 Detailed.ipynb - Data cleansing, filtering, charts and plots
 
-Tableau.jpg - Interactive Visualization dashboard https://public.tableau.com/views/cap1airbnbzillow/Invest
+Tableau.jpg - Interactive Visualization dashboard - https://public.tableau.com/views/cap1airbnbzillow/Invest
