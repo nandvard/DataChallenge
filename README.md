@@ -1,6 +1,9 @@
-# DataChallenge
 Recommend best zipcodes to invest AirBnB rentals using Zillow home price data
 
-Simple.ipynb - Simplistic analysis and plotting
-Detailed.ipynb - Detailed data cleansing, filtering, plots and charts
-T
+dataset/ .csv files - zillow 2-bedroom prices and airbnb listings
+
+Simple.ipynb - Simplistic analysis
+
+Detailed.ipynb - Data cleansing, filtering, charts and plots
+
+Tableau.jpg - Interactive Visualization dashboard https://public.tableau.com/views/cap1airbnbzillow/Invest
