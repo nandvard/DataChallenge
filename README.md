@@ -1,12 +1,12 @@
 # Data Challenge
-Recommend best zipcodes to invest AirBnB rentals using Zillow home price data
+Recommend best zipcodes in New York to invest AirBnB rentals using Zillow home price data.
 
 dataset/ .csv files
 - zillow 2-bedroom prices
 - airbnb listings (too big to upload, can be found in below Kaggle kernel)
 
-Simple.ipynb - Simplistic analysis. Runnable kernel - https://www.kaggle.com/nandvard/datachallenge
+Jupyter notebooks - Simple.ipynb & Detailed.ipynb
 
-Detailed.ipynb - Data cleansing, filtering, charts and plots
+Runnable kernel - 
 
 Tableau.jpg - Interactive Visualization dashboard - https://public.tableau.com/views/cap1airbnbzillow/Invest
